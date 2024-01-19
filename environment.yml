@@ -1,0 +1,9 @@
+name: mne_course
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - mne=1.6
+  - mne-connectivity=0.6
+  - ipympl
