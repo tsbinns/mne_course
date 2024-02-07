@@ -2,7 +2,8 @@
 
 Resources for an introductory course for signal processing in the [MNE-Python](https://mne.tools/stable/index.html) and [MNE-Connectivity](https://mne.tools/mne-connectivity/stable/index.html) packages.
 
-Guided tutorials and exercises are provided as Jupyter notebooks in the [`Notebooks`](./Notebooks) folder (see below for the topics).
+Guided tutorials and exercises are provided as Jupyter notebooks in the [`Notebooks`](./Notebooks) folder (see below for the topics).<br>
+Solutions for the notebooks are provided in the [`Teacher Resources/Notebooks`](./Teacher%20Resources/Notebooks) folder.
 
 Presentations introducing and concluding the topics will be provided in the [`Presentations`](./Presentations) folder.
 
