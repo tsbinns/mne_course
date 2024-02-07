@@ -5,7 +5,7 @@ Resources for an introductory course for signal processing in the [MNE-Python](h
 Guided tutorials and exercises are provided as Jupyter notebooks in the [`Notebooks`](./Notebooks) folder (see below for the topics).<br>
 Solutions for the notebooks are provided in the [`Teacher Resources/Notebooks`](./Teacher%20Resources/Notebooks) folder.
 
-Presentations introducing and concluding the topics will be provided in the [`Presentations`](./Presentations) folder.
+Presentations introducing and concluding the topics are provided in the [`Presentations`](./Presentations) folder.
 
 Some useful resources for Python beginners are provided in the [`Useful Python Links`](./Useful%20Python%20Links.md) file.
 
